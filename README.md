@@ -7,6 +7,8 @@
 
 - 📫 You can reach me **se.tolosa.mitiku@gmail.com**
 
+- 📫 visit my portfolio to have a clearer understanding of my experience and Projects I have worked on **https://tolosa-v10.vercel.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
